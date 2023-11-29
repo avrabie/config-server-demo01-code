@@ -10,7 +10,7 @@ server:
 
 spring:
   application:
-    name: config-service
+    name: catalog-config-server
   cloud:
     config:
       server:
